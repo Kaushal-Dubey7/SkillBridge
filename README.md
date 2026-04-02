@@ -23,8 +23,7 @@ Corporate onboarding is broken. Every year, companies spend billions of dollars 
 **SkillBridge solves this.** By analyzing a new hire's resume against the actual requirements of their target role, SkillBridge computes a precise skill delta and generates a hyper-personalized, ordered training pathway that covers only the real gaps — nothing more, nothing less. Every course recommendation is grounded against a curated 62-course catalog (zero hallucinations), every decision is explained through an AI reasoning trace, and the full pipeline runs in under 15 seconds. The result: onboarding that respects what the employee already knows and accelerates them to competency faster.
 
 ---
-
-## 🚀 Live Demo
+## 🚀 Live Demo 
 
 > **Try it now:** [https://skill-bridge-two-ochre.vercel.app/](https://skill-bridge-two-ochre.vercel.app/)
 
